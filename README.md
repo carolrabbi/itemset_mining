@@ -1,7 +1,9 @@
 ## Aplicação de Técnicas de Aprendizado Descritivo
 
 Carolinne Magalhães, Gestefane Magalhães, Vinícius Pires
+
 Departamento de Ciência da Computação - UFMG
+
 Outubro 2020
 
 
